@@ -18,6 +18,10 @@ Features
 - Email report sending
 - Log file support
 
+important
+For the script to work, you must go to the editor after downloading the file and add your email address and a special password to the file.
+
+
 Requirements
 
 Install dependencies:
